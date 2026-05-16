@@ -1,0 +1,5 @@
+secret_key="eegffhb5126e34a739dbgfgdfggdfc"
+
+rendom password = "dgdgdf"
+
+api_key="edggdg4532329993965454"
