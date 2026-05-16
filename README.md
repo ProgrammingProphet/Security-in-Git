@@ -35,7 +35,7 @@ dist/
 
 ### Demo
 ```bash
-echo "AWS_SECRET_ACCESS_KEY=123" > .env
+
 git status
 ```
 
