@@ -126,7 +126,6 @@ git commit -m "test commit"
 ### Demo — Block a Secret Commit
 
 ```bash
-echo "AWS_SECRET_ACCESS_KEY=AKIA123456789" > secrets.env
 git add secrets.env
 git commit -m "adding secrets"
 ```
