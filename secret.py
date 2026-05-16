@@ -1,4 +1,1 @@
-secret_key="[ENCRYPTION_KEY]"
-api_key="[ENCRYPTION_KEY]"
-password="password123"
-token="token123"
+secret_key="eegffhb5126e34a739dbgfgdfggdfc"
