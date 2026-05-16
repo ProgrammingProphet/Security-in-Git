@@ -1,1 +1,0 @@
-GITHUB_TOKEN="ghp_abcd1234abcd1234abcd1234abcd1234"
